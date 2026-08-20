@@ -224,11 +224,9 @@ Lower Bound = Q1 - 1.5 × IQR
 Upper Bound = Q3 + 1.5 × IQR
 
 ```
----
 
-## Model Development
-```
-```
+### Model Development
+``
 # Machine Learning Model
 
 The primary Machine Learning algorithm used in this project was:
@@ -248,7 +246,6 @@ max_iter = 500
 
 class_weight="balanced"
 ```
----
 
 # Hyperparameter Tuning
 
@@ -273,10 +270,6 @@ solver = liblinear
 max_iter = 500
 
 
-```
-
-
-```
 ```
 # Model Evaluation
 
