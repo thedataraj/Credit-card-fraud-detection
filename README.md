@@ -226,7 +226,6 @@ Upper Bound = Q3 + 1.5 × IQR
 ```
 
 ### Model Development
-``
 # Machine Learning Model
 
 The primary Machine Learning algorithm used in this project was:
