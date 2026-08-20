@@ -331,9 +331,6 @@ More False Positives
      ↓
 More Manual Investigations
 
-
-```
-```
 ```
 
 # Future Improvements
