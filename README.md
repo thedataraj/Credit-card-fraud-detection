@@ -172,6 +172,12 @@ The analysis focused on:
 
 EDA helped identify the highly imbalanced nature of the target variable and the skewness present in the `Amount` feature.
 
+## Exploratory Data Analysis
+
+![Class Distribution](images/class_distribution.png)
+
+![Dataset Summary](images/dataset_summary.png)
+
 ---
 
 # Class Imbalance
@@ -265,6 +271,10 @@ class_weight = balanced
 penalty = l2
 solver = liblinear
 max_iter = 500
+```
+## Best Model Configuration
+
+![Best Model Configuration](images/best_model_configuration.png)
 
 
 ```
@@ -282,6 +292,10 @@ The final model was evaluated on unseen test data.
 | ROC-AUC | **0.9620** |
 | PR-AUC | **0.6705** |
 
+```
+## Model Performance
+
+![Model Performance](images/model_performance.png)
 
 # Confusion Matrix
 
@@ -291,6 +305,10 @@ The final confusion matrix was:
 |---|---:|---:|
 | **Actual Legitimate** | **55,229** | **1,422** |
 | **Actual Fraud** | **12** | **83** |
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### Interpretation
 
