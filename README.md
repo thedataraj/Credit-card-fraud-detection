@@ -120,7 +120,7 @@ This is the target variable.
 0 = Legitimate
 1 = Fraudulent
 
-
+```
 # Data Quality Analysis
 
 Before building the Machine Learning model, I performed several data quality checks.
