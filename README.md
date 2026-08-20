@@ -247,9 +247,6 @@ solver = liblinear
 max_iter = 500
 
 class_weight="balanced"
-
-
----
 ```
 ---
 
@@ -280,7 +277,6 @@ max_iter = 500
 
 
 ```
----
 ```
 # Model Evaluation
 
@@ -296,7 +292,6 @@ The final model was evaluated on unseen test data.
 | ROC-AUC | **0.9620** |
 | PR-AUC | **0.6705** |
 
----
 
 # Confusion Matrix
 
@@ -316,7 +311,6 @@ The final confusion matrix was:
 
 The model detected **83 out of 95 fraudulent transactions**, resulting in **87.37% recall**.
 
----
 
 # Business Interpretation
 
@@ -338,10 +332,8 @@ More False Positives
 More Manual Investigations
 
 
----
 ```
 ```
----
 ```
 
 # Future Improvements
@@ -381,7 +373,6 @@ Monitor:
 - Recall
 - False-positive rate
 
----
 
 # Conclusion
 
@@ -400,7 +391,6 @@ The project also demonstrates an important lesson in fraud detection: **accuracy
 
 Precision, Recall, PR-AUC, ROC-AUC, and the business impact of false positives and false negatives must all be considered when evaluating a fraud detection system.
 
----
 
 # Technologies Used
 
@@ -412,7 +402,6 @@ Precision, Recall, PR-AUC, ROC-AUC, and the business impact of false positives a
 - Seaborn
 - Jupyter Notebook
 
----
 
 # Author
 
@@ -420,7 +409,6 @@ Precision, Recall, PR-AUC, ROC-AUC, and the business impact of false positives a
 
 Data Analytics | Python | SQL | Power BI | Machine Learning
 
----
 
 ## Project Keywords
 
