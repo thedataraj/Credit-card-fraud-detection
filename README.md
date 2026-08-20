@@ -228,9 +228,9 @@ Upper Bound = Q3 + 1.5 × IQR
 
 ## Then your most important section: Model Development
 
-```markdown
+```
 ---
-
+```
 # Machine Learning Model
 
 The primary Machine Learning algorithm used in this project was:
@@ -252,10 +252,10 @@ class_weight="balanced"
 
 
 ---
-
+```
 ### Then Hyperparameter Tuning
 
-```markdown
+
 ---
 
 # Hyperparameter Tuning
@@ -281,15 +281,15 @@ solver = liblinear
 max_iter = 500
 
 
----
+```
 
 ## Then Model Evaluation
 
 This is where your GitHub README becomes impressive.
 
-```markdown
+```
 ---
-
+```
 # Model Evaluation
 
 The final model was evaluated on unseen test data.
@@ -347,11 +347,12 @@ More Manual Investigations
 
 
 ---
-
+```
 ### Then Future Improvements
 
-```markdown
+```
 ---
+```
 
 # Future Improvements
 
