@@ -1,0 +1,7 @@
+### Class
+
+This is the target variable.
+
+```text
+0 = Legitimate
+1 = Fraudulent
