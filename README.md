@@ -119,3 +119,35 @@ This is the target variable.
 ```text
 0 = Legitimate
 1 = Fraudulent
+
+
+# Data Quality Analysis
+
+Before building the Machine Learning model, I performed several data quality checks.
+
+### Missing Values
+
+No missing values were detected across the dataset.
+
+### Duplicate Records
+
+The dataset initially contained **1,081 duplicate records**.
+
+These duplicate records were removed before model training.
+
+### Final Dataset
+
+After removing duplicates, the dataset contained:
+
+**283,726 transactions**
+
+### Data Validation
+
+The following checks were performed:
+
+- Missing value detection
+- Duplicate detection
+- Infinite value detection
+- Data type inspection
+- Statistical summary
+- Class distribution analysis
