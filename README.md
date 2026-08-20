@@ -226,10 +226,8 @@ Upper Bound = Q3 + 1.5 × IQR
 ```
 ---
 
-## Then your most important section: Model Development
-
+## Model Development
 ```
----
 ```
 # Machine Learning Model
 
@@ -253,9 +251,6 @@ class_weight="balanced"
 
 ---
 ```
-### Then Hyperparameter Tuning
-
-
 ---
 
 # Hyperparameter Tuning
@@ -283,9 +278,6 @@ max_iter = 500
 
 ```
 
-## Then Model Evaluation
-
-This is where your GitHub README becomes impressive.
 
 ```
 ---
@@ -348,8 +340,6 @@ More Manual Investigations
 
 ---
 ```
-### Then Future Improvements
-
 ```
 ---
 ```
